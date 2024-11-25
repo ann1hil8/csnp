@@ -1,0 +1,15 @@
+../Core/Src/csnp.c:31:20:CSNP_Start	8	static
+../Core/Src/csnp.c:48:20:CSNP_Tx_Init	16	static
+../Core/Src/csnp.c:67:20:CSNP_Tx_Send	16	static
+../Core/Src/csnp.c:86:20:CSNP_Rx_Start_Msg_Pending	16	static
+../Core/Src/csnp.c:111:6:CSNP_Rx_Wait	32	static
+../Core/Src/csnp.c:135:9:findFirstSetBit	24	static
+../Core/Src/csnp.c:144:10:CSNP_Copy_Parsed_ToPayload	32	static
+../Core/Src/csnp.c:181:15:CSPN_Rx_Get_Data	112	static
+../Core/Src/csnp.c:263:6:CSNP_Id_Compare	16	static
+../Core/Src/csnp.c:279:10:CSNP_Rx_Parse_Frame	24	static
+../Core/Src/csnp.c:324:9:CSNP_Tx_Create_Flow	16	static
+../Core/Src/csnp.c:355:9:CSNP_Tx_Create_Frame	32	static
+../Core/Src/csnp.c:404:20:CSNP_Tx_Send_Data	104	static
+../Core/Src/csnp.c:462:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Core/Src/csnp.c:479:6:HAL_CAN_RxFifo1MsgPendingCallback	16	static
